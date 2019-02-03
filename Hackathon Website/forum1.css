@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}*
+
+body{
+  color: #25272E;
+}
+
+.tables{
+  margin: 0px 0;
+  background: #24272E;
+
+}
+
+.table-element{
+  padding: 10px;
+  display: inline-block;
+  margin: 5px;
+
+}
+
+#element-zero{
+  font-family: Asap, sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+}
+
+#element-three{
+  font-family: Asap, sans-serif;
+  position: absolute;
+  right: 10px;
+  font-size: 20px;
+  color: blue;
+
+}
+
+#element-two{
+  font-family: Asap, sans-serif;
+  position: absolute;
+  right: 253px;
+  font-size: 20px;
+  color: blue;
+}
+
+#element-one{
+  font-family: Asap, sans-serif;
+  position: absolute;
+  right: 370px;
+  font-size: 20px;
+  color: blue;
+}
+
+#element-four{
+  font-family: Asap, sans-serif;
+  position: absolute;
+  right: 500px;
+  font-size: 20px;
+  color: blue;
+}
+
+#msg{
+  font-family: Asap, sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  padding: 5px;
+  text-align: center;
+}
+
+#clickButton{
+  font-family: Asap, sans-serif;
+  font-size: 15px;
+  padding: 5px;
+  display: block;
+  margin: 10px auto;
+}
+
+hr {
+  height:0.05px;
+
+  clear:both;
+  margin:0px;
+}
+a:hover {
+  color:white;
+}
+a:active {
+  color:blue;
+}
+a:visited {
+  color:white;
+}
+a{
+  text-decoration: none;
+  color:white;
+}
+#search {
+  margin:200px;
+}
+#map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }

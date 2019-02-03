@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tables{
+  margin: 0px 0;
+  background: #24272E;
+
+}
+
+.table-element{
+  padding: 10px;
+  display: inline-block;
+  margin: 5px;
+
+}
+
+#element-zero{
+  font-family: Asap, sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+}
+
+#element-three{
+  font-family: Asap, sans-serif;
+  position: absolute;
+  right: 10px;
+  font-size: 20px;
+  color: blue;
+
+}
+
+#element-two{
+  font-family: Asap, sans-serif;
+  position: absolute;
+  right: 253px;
+  font-size: 20px;
+  color: blue;
+}
+
+#element-one{
+  font-family: Asap, sans-serif;
+  position: absolute;
+  right: 370px;
+  font-size: 20px;
+  color: blue;
+}
+
+#element-four{
+  font-family: Asap, sans-serif;
+  position: absolute;
+  right: 500px;
+  font-size: 20px;
+  color: blue;
+}
+
+body{
+  background: #24272E;
+}
+header{
+  background: white;
+  padding: 20px;
+}
+
+header > h1{
+  color: #25272E;
+  text-align: center;
+  font-family: Asap, sans-serif;
+}
+
+.progress{
+  border: 3px solid white;
+  width: 200px;
+  margin: 20px auto;
+  color: white;
+  border-radius: 10px;
+  font-size: 40px;
+  text-align: center;
+  font-family: Asap, sans-serif;
+  padding: 15px 20px;
+}
+
+.prompt{
+  font-size: 40px;
+  color: white;
+}
+
+.prompt > p{
+  text-align: center;
+  font-weight: bold;
+  font-family: Asap, sans-serif;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  border-radius: 20%;
+  object-fit: cover;
+}
+.choices{
+  margin: 50px 0;
+  text-align: center;
+}
+
+.choice{
+  padding: 10px;
+  display: inline-block;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+  border-radius: 20%;
+  margin: 5px;
+  transition: all 0.2s ease;
+}
+
+.choice:hover{
+  cursor: pointer;
+  background: grey;
+}
+
+#action-message{
+  font-family: Asap, sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+#reasoning{
+  margin: 15px;
+  font-family: Asap, sans-serif;
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+  color: white;
+}
+
+a:hover {
+  color:white;
+}
+a:active {
+  color:white;
+}
+a:visited {
+  color:white;
+}
+a{
+  text-decoration: none;
+  color:white;
+}

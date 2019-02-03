@@ -1,0 +1,15 @@
+White-Spot, Depth, Temp., Color, Strength
+No, Deep, High, Grey, Strong
+No, Deep, High, Grey, Strong
+Yes, Normal, High, Red, Weak
+Yes, Surface, Mild, Pale, Weak
+Yes, Surface, Cool, Grey, Weak
+No, Surface, Cool, Red, Strong
+Yes, Normal, Cool, Pale, Weak
+No, Deep, Mild, Grey, Weak
+Yes, Deep, Cool, Pale, Weak
+Yes, Surface, Mild, Red, Weak
+Yes, Surface, Mild, Grey, Weak
+Yes, Normal, Mild, Pale, Weak
+Yes, Normal, Hot, Red, Weak
+No, Surface, Mild, Grey, Strong
