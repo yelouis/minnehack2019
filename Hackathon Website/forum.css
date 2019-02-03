@@ -33,6 +33,7 @@ body{
 #element-three{
   font-family: Asap, sans-serif;
   position: absolute;
+  margin-top: 20px;
   right: 10px;
   font-size: 20px;
   color: blue;
@@ -42,6 +43,7 @@ body{
 #element-two{
   font-family: Asap, sans-serif;
   position: absolute;
+  margin-top: 20px;
   right: 253px;
   font-size: 20px;
   color: blue;
@@ -50,6 +52,7 @@ body{
 #element-one{
   font-family: Asap, sans-serif;
   position: absolute;
+  margin-top: 20px;
   right: 370px;
   font-size: 20px;
   color: blue;
@@ -58,6 +61,7 @@ body{
 #element-four{
   font-family: Asap, sans-serif;
   position: absolute;
+  margin-top: 20px;
   right: 500px;
   font-size: 20px;
   color: blue;
